@@ -1,0 +1,52 @@
+[
+  {
+    "module_code": "adm7_2",
+    "module_label": "ADM 7.2 - Candidate Application Logging",
+    "module_title": "Candidate Application Logging",
+    "module_slug": "candidate_application_logging",
+    "app_code": "adm7",
+    "app_label": "ADM 7 - HR Recruitment",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm7_3",
+    "module_label": "ADM 7.3 - Interview Management",
+    "module_title": "Interview Management",
+    "module_slug": "interview_management",
+    "app_code": "adm7",
+    "app_label": "ADM 7 - HR Recruitment",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm7_1",
+    "module_label": "ADM 7.1 - Job Requisition Creation",
+    "module_title": "Job Requisition Creation",
+    "module_slug": "job_requisition_creation",
+    "app_code": "adm7",
+    "app_label": "ADM 7 - HR Recruitment",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm7_4",
+    "module_label": "ADM 7.4 - Offer Issuance",
+    "module_title": "Offer Issuance",
+    "module_slug": "offer_issuance",
+    "app_code": "adm7",
+    "app_label": "ADM 7 - HR Recruitment",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm7_5",
+    "module_label": "ADM 7.5 - Onboarding Initiation",
+    "module_title": "Onboarding Initiation",
+    "module_slug": "onboarding_initiation",
+    "app_code": "adm7",
+    "app_label": "ADM 7 - HR Recruitment",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  }
+]
